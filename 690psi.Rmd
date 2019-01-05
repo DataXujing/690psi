@@ -1,16 +1,16 @@
 ---
-title: "海尔690PSI大数据算法工程师"
+title: "690PSI大数据算法工程师模型设计能力评估"
 subtitle: "模型设计能力评估"
 author: "徐静"
 date: "`r Sys.Date()`"
 output:
-  tufte::tufte_html: default
-  tufte::tufte_book:
-    citation_package: natbib
-    latex_engine: xelatex
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_html: default
 ctex: yes
 bibliography: skeleton.bib
 link-citations: yes
